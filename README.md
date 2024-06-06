@@ -24,7 +24,7 @@ NECESSARY IMPORT FUCTIONS:
   from sklearn.neural_network import MLPClassifier  # for classification
   from sklearn.neural_network import MLPRegressor  #  # for regression
 
-1. Decision Trees (DT):
+1 . Decision Trees (DT):
 Decision Trees are supervised learning algorithms used for classification and regression tasks. They learn simple decision rules from the data to predict the target variable.
 
 * Applications: Decision Trees are widely used in various domains, including finance, healthcare, and marketing.
