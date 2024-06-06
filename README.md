@@ -1,4 +1,11 @@
-Machine learning (ML) is a subfield of artificial intelligence (AI) that focuses on developing algorithms and techniques that enable computers to learn from data and make predictions or decisions without being explicitly programmed.
+                                                                                                                                                         
+![image](https://github.com/Rojakaruppaiyan/ARTIFICIAL-INTELLIGENCE/assets/171793481/7a0ba1f1-4d9d-4178-8c3c-0fdde41d956f)
+
+* STEPS IN MACHINE LEARNING
+                                                                                                                                                         
+ ![image](https://github.com/Rojakaruppaiyan/ARTIFICIAL-INTELLIGENCE/assets/171793481/2da029d6-7f22-46ae-be2b-3591c85dabc9)
+                                                                                                                                                        
+                                                                                                                                                                                            Machine learning (ML) is a subfield of artificial intelligence (AI) that focuses on developing algorithms and techniques that enable computers to learn from data and make predictions or decisions without being explicitly programmed.
 NECESSARY IMPORT FUCTIONS:
 1. Decision Trees (DT):
    from sklearn.tree import DecisionTreeClassifier
